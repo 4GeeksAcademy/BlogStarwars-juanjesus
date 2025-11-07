@@ -1,0 +1,15 @@
+body {
+  background-color: #3e3e3e; 
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  color: #fff; 
+}
+.pagination-dark .page-link {
+  background-color: #343a40;
+  color: #f8f9fa;
+}
+.pagination-dark .page-item.active .page-link {
+  background-color: #807d72;
+  color: #000;
+}
